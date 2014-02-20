@@ -2,8 +2,6 @@
 
 This is the Android portion of Paybble project. 
 <br>
-To make it compile you will need :
-PebbleKit project in IDE from Pebble sdk somewhere on your PC.
-Add as library dependency.
-<br>
-Cheers!
+To get the latest version of PebbleKit download sdk from their site, import into IDE, make it android library and add it as library dependency to the project
+
+<h5> Cheers! </h5>
