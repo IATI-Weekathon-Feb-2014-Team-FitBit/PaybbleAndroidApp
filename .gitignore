@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+bin
+gen
+*.apk
+*.dex
+proguard/
+.gradle
+build
